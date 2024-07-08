@@ -3,7 +3,7 @@
 
 ---
 
-<h1 id="advanced-python-programming">Advanced Python Programming</h1>
+<h1 id="advanced-python-programming-and-animation">Advanced Python Programming and Animation</h1>
 <h2 id="course-structure">Course Structure</h2>
 <h3 id="objective">Objective:</h3>
 <p>To elevate student proficiency and comfort with Python, with a specific emphasis on setting up a robust development environment, mastering Git and GitHub, delving into advanced Python programming concepts, and extensively exploring Numpy, Matplotlib, and the Manim animation engine. The course is designed to equip students with comprehensive knowledge of the Manim engine.</p>
